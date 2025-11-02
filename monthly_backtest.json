@@ -1,0 +1,212 @@
+[
+  {
+    "symbol": "ADANIENT",
+    "realized": 2461.4339102717013,
+    "unrealized": -113.56843992827257,
+    "total": 2347.8654703434286
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "realized": 177.30799041972784,
+    "unrealized": 0,
+    "total": 177.30799041972784
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "realized": 237.20054329799567,
+    "unrealized": 0,
+    "total": 237.20054329799567
+  },
+  {
+    "symbol": "AXISBANK",
+    "realized": 1422.188847266932,
+    "unrealized": 0,
+    "total": 1422.188847266932
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "realized": 1492.9369980967267,
+    "unrealized": 0,
+    "total": 1492.9369980967267
+  },
+  {
+    "symbol": "BEL",
+    "realized": -658.6508567604983,
+    "unrealized": 0,
+    "total": -658.6508567604983
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "realized": 468.2506373348443,
+    "unrealized": 0,
+    "total": 468.2506373348443
+  },
+  {
+    "symbol": "CIPLA",
+    "realized": 1394.622044553665,
+    "unrealized": 0,
+    "total": 1394.622044553665
+  },
+  {
+    "symbol": "DRREDDY",
+    "realized": 685.165998468399,
+    "unrealized": -442.9016040220254,
+    "total": 242.26439444637361
+  },
+  {
+    "symbol": "GRASIM",
+    "realized": 427.7939703055249,
+    "unrealized": 0,
+    "total": 427.7939703055249
+  },
+  {
+    "symbol": "HCLTECH",
+    "realized": -322.2545869711609,
+    "unrealized": 0,
+    "total": -322.2545869711609
+  },
+  {
+    "symbol": "HDFCBANK",
+    "realized": 0,
+    "unrealized": 0,
+    "total": 0
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "realized": -180.87520259319348,
+    "unrealized": 0,
+    "total": -180.87520259319348
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "realized": 1690.1528470440885,
+    "unrealized": 0,
+    "total": 1690.1528470440885
+  },
+  {
+    "symbol": "HINDALCO",
+    "realized": 543.6305853938194,
+    "unrealized": 0,
+    "total": 543.6305853938194
+  },
+  {
+    "symbol": "ICICIBANK",
+    "realized": 894.3342006135692,
+    "unrealized": 0,
+    "total": 894.3342006135692
+  },
+  {
+    "symbol": "INFY",
+    "realized": 661.7748857815322,
+    "unrealized": 0,
+    "total": 661.7748857815322
+  },
+  {
+    "symbol": "ITC",
+    "realized": -553.5382804001954,
+    "unrealized": 0,
+    "total": -553.5382804001954
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "realized": 1037.8282212171903,
+    "unrealized": 0,
+    "total": 1037.8282212171903
+  },
+  {
+    "symbol": "LT",
+    "realized": 125.30098308360016,
+    "unrealized": 0,
+    "total": 125.30098308360016
+  },
+  {
+    "symbol": "M&M",
+    "realized": -212.5976122371635,
+    "unrealized": 0,
+    "total": -212.5976122371635
+  },
+  {
+    "symbol": "MARUTI",
+    "realized": 98.12667261373774,
+    "unrealized": 0,
+    "total": 98.12667261373774
+  },
+  {
+    "symbol": "NESTLEIND",
+    "realized": -126.80956619997446,
+    "unrealized": 0,
+    "total": -126.80956619997446
+  },
+  {
+    "symbol": "NTPC",
+    "realized": 0,
+    "unrealized": 0,
+    "total": 0
+  },
+  {
+    "symbol": "ONGC",
+    "realized": 936.0293915531186,
+    "unrealized": 0,
+    "total": 936.0293915531186
+  },
+  {
+    "symbol": "POWERGRID",
+    "realized": -231.06123122627497,
+    "unrealized": 0,
+    "total": -231.06123122627497
+  },
+  {
+    "symbol": "RELIANCE",
+    "realized": 1094.8874071530201,
+    "unrealized": 0,
+    "total": 1094.8874071530201
+  },
+  {
+    "symbol": "SBIN",
+    "realized": 149.20552900142042,
+    "unrealized": 0,
+    "total": 149.20552900142042
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "realized": 1066.3723545882312,
+    "unrealized": 0,
+    "total": 1066.3723545882312
+  },
+  {
+    "symbol": "TATASTEEL",
+    "realized": 791.7795088503046,
+    "unrealized": 0,
+    "total": 791.7795088503046
+  },
+  {
+    "symbol": "TECHM",
+    "realized": 0,
+    "unrealized": -192.78435692646653,
+    "total": -192.78435692646653
+  },
+  {
+    "symbol": "TITAN",
+    "realized": -373.79643451827485,
+    "unrealized": 0,
+    "total": -373.79643451827485
+  },
+  {
+    "symbol": "TRENT",
+    "realized": 70.94493938696816,
+    "unrealized": 0,
+    "total": 70.94493938696816
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "realized": 336.14924322421683,
+    "unrealized": 0,
+    "total": 336.14924322421683
+  },
+  {
+    "symbol": "WIPRO",
+    "realized": -165.1917404129789,
+    "unrealized": -54.958677685950924,
+    "total": -220.15041809892983
+  }
+]
